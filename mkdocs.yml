@@ -19,3 +19,10 @@ theme:
   
   nav:
     - Home: index.md
+    - World & Lore: world/index.md
+    - Locations: locations/index.md
+    - Characters: characters/index.md
+    - Factions: factions/index.md
+    - Campaign Journal: campaign/index.md
+    - Reference: reference.md
+    - Statistics: stats/index.md
