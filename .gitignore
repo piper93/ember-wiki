@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+
+# Generated MkDocs website
+site/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local configuration
+.env
+
+# Windows
+Thumbs.db
+desktop.ini

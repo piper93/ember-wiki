@@ -1,0 +1,21 @@
+site_name: Ember Wiki
+site_description: Player-facing encyclopedia for the Ember campaign
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: deep orange
+    accent: amber
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+  plugins:
+    - search
+  
+  nav:
+    - Home: index.md
